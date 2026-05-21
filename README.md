@@ -354,12 +354,6 @@ Amir Meshkini
 
 ---
 
-## Citation
-
-If you use this project in research or publications, please cite the associated repository or paper.
-
----
-
 ## Notes
 
-This project is intended for educational and research purposes in bioinformatics and machine learning.
+This project is intended for educational and research purposes in biophysics and machine learning.
